@@ -10,7 +10,7 @@
 
 - Under the guidance of  Dr. Bhawana Rudra & Adhoc Faculty Trupti Chandak 
 
-We have implemented linear regression from scratch on a different dataset also (while we were learning the concepts ,this is not the main notebook). [link to the notebook](https://github.com/vinayakj02/Health-Insurance-Cost-Prediction/blob/master/learningPhase/Linear%20Regression%20with%202%20variables.ipynb)
+
 
 ## Abstract
 Insurance is a policy that tries to decrease costs incurred by accident or illness.This can be influenced by various factors.
@@ -20,6 +20,8 @@ We compare the results from Linear regression, Lasso regression, Ridge Regressio
 - [The report](https://github.com/vinayakj02/Health-Insurance-Cost-Prediction/blob/master/IT203_Project_Group_40.pdf)
 - [The main notebook implemented in python](https://github.com/vinayakj02/Health-Insurance-Cost-Prediction/blob/master/Cost_Prediction-Final-notebook.ipynb)
 - [Dataset](https://github.com/vinayakj02/Health-Insurance-Cost-Prediction/blob/master/insurance.csv)
+
+We have implemented linear regression from scratch on a different dataset also (while we were learning the concepts ,this is not the main notebook). [link to the notebook](https://github.com/vinayakj02/Health-Insurance-Cost-Prediction/blob/master/learningPhase/Linear%20Regression%20with%202%20variables.ipynb)
 
 
 ## Results and Conclusion
